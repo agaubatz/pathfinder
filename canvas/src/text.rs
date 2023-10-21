@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 // pathfinder/canvas/src/text.rs
 //
 // Copyright © 2019 The Pathfinder Project Developers.

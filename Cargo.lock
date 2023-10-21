@@ -2638,7 +2638,7 @@ source = "git+https://github.com/servo/pathfinder/#581eadfbeb61a973f73691f4672ad
 
 [[package]]
 name = "pathfinder_simd"
-version = "0.5.1"
+version = "0.5.2"
 dependencies = [
  "rustc_version 0.4.0",
 ]

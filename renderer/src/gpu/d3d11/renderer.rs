@@ -1,3 +1,4 @@
+#![allow(warnings)]
 // pathfinder/renderer/src/gpu/d3d11/renderer.rs
 //
 // Copyright © 2020 The Pathfinder Project Developers.

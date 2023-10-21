@@ -10,6 +10,8 @@
 
 //! The GPU renderer that processes commands necessary to render a scene.
 
+#![allow(warnings)]
+
 use crate::gpu::blend::{ToBlendState, ToCompositeCtrl};
 use crate::gpu::d3d9::renderer::RendererD3D9;
 use crate::gpu::d3d11::renderer::RendererD3D11;

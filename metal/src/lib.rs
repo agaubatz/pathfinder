@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 // pathfinder/metal/src/lib.rs
 //
 // Copyright © 2019 The Pathfinder Project Developers.

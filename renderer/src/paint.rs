@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 // pathfinder/renderer/src/paint.rs
 //
 // Copyright © 2020 The Pathfinder Project Developers.

@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 // pathfinder/renderer/src/scene.rs
 //
 // Copyright © 2019 The Pathfinder Project Developers.
